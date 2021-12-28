@@ -1,0 +1,2 @@
+# RT-Thread-Nano-Keil
+STM32F1 STANDARD   FINSH
