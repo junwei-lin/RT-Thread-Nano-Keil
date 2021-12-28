@@ -1,0 +1,17 @@
+..\obj\mem.o: D:\KEIL5\PACK\RealThread\RT-Thread\3.1.5\src\mem.c
+..\obj\mem.o: D:\KEIL5\PACK\RealThread\RT-Thread\3.1.5\include\rthw.h
+..\obj\mem.o: D:\KEIL5\PACK\RealThread\RT-Thread\3.1.5\include\rtthread.h
+..\obj\mem.o: .\RTE\RTOS\rtconfig.h
+..\obj\mem.o: .\RTE\RTOS\finsh_config.h
+..\obj\mem.o: D:\KEIL5\PACK\RealThread\RT-Thread\3.1.5\include\rtdebug.h
+..\obj\mem.o: D:\KEIL5\PACK\RealThread\RT-Thread\3.1.5\include\rtdef.h
+..\obj\mem.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\mem.o: D:\KEIL5\PACK\RealThread\RT-Thread\3.1.5\include\rtservice.h
+..\obj\mem.o: D:\KEIL5\PACK\RealThread\RT-Thread\3.1.5\components\finsh\finsh_api.h
+..\obj\mem.o: D:\KEIL5\PACK\RealThread\RT-Thread\3.1.5\components\finsh\finsh_config.h
+..\obj\mem.o: D:\KEIL5\PACK\RealThread\RT-Thread\3.1.5\components\finsh\finsh.h
+..\obj\mem.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\mem.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\ctype.h
+..\obj\mem.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\mem.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mem.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
